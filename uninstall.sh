@@ -22,13 +22,10 @@ printf 'y' |sudo apt remove stunnel4
 printf 'y' |sudo apt remove udptunnel
 printf 'y' |sudo apt remove laudanum
 printf 'y' |sudo apt remove dnschef
-printf 'y' |sudo apt remove netsniff-ng
 printf 'y' |sudo apt remove rebind
 printf 'y' |sudo apt remove sslsplit
 printf 'y' |sudo apt remove tcpreplay
 printf 'y' |sudo apt remove ettercap-graphical
-printf 'y' |sudo apt remove metasploit-framework
-printf 'y' |sudo apt remove sqlitebrowser
 printf 'y' |sudo apt remove bully
 printf 'y' |sudo apt remove spooftooph
 printf 'y' |sudo apt remove pixiewps
